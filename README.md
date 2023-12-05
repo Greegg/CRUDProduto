@@ -1,15 +1,16 @@
-# Crud Produtos
+# Crud Produtos ( Branch de PRODU√á√ÉO )
 
 
-CriaÁ„o de cadastro de produtos, contendo:
-ï Tela de listagem de produtos;
-ï OpÁ„o para inclus„o dos produtos;
-ï OpÁ„o para alteraÁ„o dos produtos;
-ï OpÁ„o para remover produtos.
+Cria√ß√£o de cadastro de produtos, contendo:
+
+Tela de listagem de produtos;
+Op√ß√£o para inclus√£o dos produtos;
+Op√ß√£o para altera√ß√£o dos produtos;
+Op√ß√£o para remover produtos.
 
 --------------------------------------------------
 
 Para o funcionamento do programa, precisa alterar
-a conex„o do banco em "Conexao.cs', adicionar o 
-caminho do banco, login e senha de onde est„o 
-sendo retiradas as informaÁıes
+a conex√£o do banco em "Conexao.cs', adicionar o 
+caminho do banco, login e senha de onde est√£o 
+sendo retiradas as informa√ß√µes
