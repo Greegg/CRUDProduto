@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casa\\Desktop\\Bootcamp Ibid\\Exericicos\\3 - Terceira semana(C#)\\Atividade05\\Atividade05.csproj": {}
+    "C:\\Users\\casa\\Desktop\\Git\\CRUDProduto\\Atividade05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casa\\Desktop\\Bootcamp Ibid\\Exericicos\\3 - Terceira semana(C#)\\Atividade05\\Atividade05.csproj": {
+    "C:\\Users\\casa\\Desktop\\Git\\CRUDProduto\\Atividade05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casa\\Desktop\\Bootcamp Ibid\\Exericicos\\3 - Terceira semana(C#)\\Atividade05\\Atividade05.csproj",
+        "projectUniqueName": "C:\\Users\\casa\\Desktop\\Git\\CRUDProduto\\Atividade05.csproj",
         "projectName": "Atividade05",
-        "projectPath": "C:\\Users\\casa\\Desktop\\Bootcamp Ibid\\Exericicos\\3 - Terceira semana(C#)\\Atividade05\\Atividade05.csproj",
+        "projectPath": "C:\\Users\\casa\\Desktop\\Git\\CRUDProduto\\Atividade05.csproj",
         "packagesPath": "C:\\Users\\casa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casa\\Desktop\\Bootcamp Ibid\\Exericicos\\3 - Terceira semana(C#)\\Atividade05\\obj\\",
+        "outputPath": "C:\\Users\\casa\\Desktop\\Git\\CRUDProduto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FdmAowg2nWdhdw4Ql58ExqJAQhufFE/8RVvDE3l8AERPzNwoRNn10/PeQBk0eCt062td4j+PHfgR5P/Fuyhw6Q==",
+  "dgSpecHash": "b5TTaLNSCjUIB/w3LgdW17uqxg42W0KJrhYeriRWAf8DuF4wRE/z6NC9z9ZTCJ50THxpOv/n781Rk9MRpM4etw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\casa\\Desktop\\Bootcamp Ibid\\Exericicos\\3 - Terceira semana(C#)\\Atividade05\\Atividade05.csproj",
+  "projectFilePath": "C:\\Users\\casa\\Desktop\\Git\\CRUDProduto\\Atividade05.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\casa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\casa\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

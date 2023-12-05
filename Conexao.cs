@@ -10,7 +10,7 @@ namespace Atividade05
 
         public Conexao() {
             //Abrindo conexão com o banco de dados passando o usuario, senha, ip do banco e qual o nome do banco utilizado
-            connection.ConnectionString = @"User ID=sa;Password=123casa;Data source=localhost\SQLEXPRESS;Initial Catalog=BOOTCAMP_GREGORIO;Persist Security Info=True;Timeout=120";
+            connection.ConnectionString = @"User ID=sa;Password=123casa;Data source=localhost\SQLEXPRESS;Initial Catalog=Empresa_Produtos;Persist Security Info=True;Timeout=120";
 
         }
 
