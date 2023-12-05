@@ -1,0 +1,66 @@
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.exe
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.deps.json
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.runtimeconfig.json
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.pdb
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.AssemblyReference.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.AssemblyInfoInputs.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.AssemblyInfo.cs
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.CopyComplete
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\refint\Atividade05.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.pdb
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.genruntimeconfig.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\ref\Atividade05.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.exe
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.deps.json
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.runtimeconfig.json
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.pdb
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.AssemblyReference.cache
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.AssemblyInfoInputs.cache
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.AssemblyInfo.cs
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.CoreCompileInputs.cache
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.CopyComplete
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\refint\Atividade05.dll
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.pdb
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.genruntimeconfig.cache
+C:\Users\casa\OneDrive\Área de Trabalho\Bootcamp Ibid\Exericicos\Terceira semana(C#)\Atividade05\obj\Debug\net7.0\ref\Atividade05.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.exe
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.deps.json
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.runtimeconfig.json
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\Atividade05.pdb
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.AssemblyReference.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.AssemblyInfoInputs.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.AssemblyInfo.cs
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.csproj.CopyComplete
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\refint\Atividade05.dll
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.pdb
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\Atividade05.genruntimeconfig.cache
+C:\Users\casa\Desktop\Bootcamp Ibid\Exericicos\3 - Terceira semana(C#)\Atividade05\obj\Debug\net7.0\ref\Atividade05.dll
